@@ -1,0 +1,29 @@
+DreamCompress Change Log
+========================
+
+v0.4.0
+------
+
+- Added complete option and usage documentation to the Help menu.
+- Added a scrollable application manual inside DreamCompress.
+- Redesigned About DreamCompress around prominent creator credit:
+  Created by Kazetrigger.
+- Added backend, project, and development acknowledgement information.
+- Added a complete version history from v0.1.0 through v0.4.0.
+- Added BUILD_WINDOWS.bat.
+- Added native Linux and macOS build scripts.
+- Added a shared PyInstaller specification.
+- Added a GitHub Actions workflow for native Windows, Linux, and macOS builds.
+- Added BUILDING.md with packaging and distribution guidance.
+
+v0.3.6
+------
+
+- Established the stable custom in-window menu baseline.
+- Replaced native popup menus with application-styled dropdown frames.
+- Completed reliable click, hover-switch, submenu, and dismissal behavior.
+
+Earlier releases
+----------------
+
+See Help > About DreamCompress for the full version history.
